@@ -7,3 +7,6 @@ historic trends in combating climate change. In calculating the SDG scores of co
 
 # Data and Methodology
 This paper uses secondary data that has been gathered from the European Commission and the European Sustainable Development Report. Based on the availability of data, 35 European countries have been used for this study and all the data has been gathered from the year 2019.
+
+# Conclusion
+Action towards climate change has a significant impact on the SDG scores of European countries. Even though the SDGs have equal weightage, the indicators for goal 13 seem to have a larger impact on the scores.
